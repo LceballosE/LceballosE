@@ -42,6 +42,8 @@ Trabajo como:
   
 :star:  CodePen: https://codepen.io/lceballose
 
+:star: Microsoft: https://docs.microsoft.com/es-es/users/lorenaceballose/
+
 <!--
 **LceballosE/LceballosE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
