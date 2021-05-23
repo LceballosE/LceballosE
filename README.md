@@ -11,7 +11,7 @@ Siempre busco dejar huella :high_heel: en lo que hago y en las personas.
 * Tecnologías MICROSOFT :computer:
 
 
-Actualmente trabajo como:
+Trabajo como:
 
 :star2: Desarrolladora ASP.NET
 
