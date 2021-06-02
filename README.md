@@ -30,6 +30,7 @@ Trabajo como:
 * Diplomado en Analítica de Datos
 * Microsoft Certified: Azure Developer Associate :arrow_forward: AZ -204
 * Scrum Master Accredited Certification™ :man_student:
+* Python Basics - University of Michigan :snake:
 * Data Science with Python - DataCamp/ Data Science Fem ...... Próximamente: date:
 
 ![me](https://github-readme-stats.vercel.app/api?username=LceballosE&hide=contribs,prs&theme=material-palenight&show_icons=true) 
