@@ -41,6 +41,8 @@ Trabajo como:
 ## Get in touch::handshake: 
 
 :star:  LinkedIn: https://www.linkedin.com/in/lorenaceballos/
+
+:star:  Portafolio PBI: https://lceballose.github.io/Portafolio/
   
 :star:  CodePen: https://codepen.io/lceballose
 
